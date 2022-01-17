@@ -1,0 +1,43 @@
+E:\FILL E\company\company\bin\Debug\company.exe.config
+E:\FILL E\company\company\bin\Debug\company.exe
+E:\FILL E\company\company\bin\Debug\company.pdb
+E:\FILL E\company\company\bin\Debug\Magic_DB_V2.dll
+E:\FILL E\company\company\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\FILL E\company\company\bin\Debug\MySql.Data.dll
+E:\FILL E\company\company\bin\Debug\Npgsql.dll
+E:\FILL E\company\company\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\FILL E\company\company\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\FILL E\company\company\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\FILL E\company\company\obj\Debug\company.csprojAssemblyReference.cache
+E:\FILL E\company\company\obj\Debug\company.Properties.Resources.resources
+E:\FILL E\company\company\obj\Debug\company.csproj.GenerateResource.cache
+E:\FILL E\company\company\obj\Debug\company.csproj.CopyComplete
+E:\FILL E\company\company\obj\Debug\company.exe
+E:\FILL E\company\company\obj\Debug\company.pdb
+E:\FILL E\company\company\obj\Debug\company.frmuser.resources
+E:\FILL E\company\company\bin\Debug\company.exe.manifest
+E:\FILL E\company\company\bin\Debug\company.application
+E:\FILL E\company\company\obj\Debug\company.exe.manifest
+E:\FILL E\company\company\obj\Debug\company.application
+E:\FILL E\company\company\obj\Debug\company.csprojResolveAssemblyReference.cache
+E:\swftware\PROG\company\company\bin\Debug\company.exe.config
+E:\swftware\PROG\company\company\bin\Debug\company.exe.manifest
+E:\swftware\PROG\company\company\bin\Debug\company.application
+E:\swftware\PROG\company\company\bin\Debug\company.exe
+E:\swftware\PROG\company\company\bin\Debug\company.pdb
+E:\swftware\PROG\company\company\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\swftware\PROG\company\company\bin\Debug\MySql.Data.dll
+E:\swftware\PROG\company\company\bin\Debug\Npgsql.dll
+E:\swftware\PROG\company\company\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\swftware\PROG\company\company\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\swftware\PROG\company\company\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\swftware\PROG\company\company\obj\Debug\company.csprojAssemblyReference.cache
+E:\swftware\PROG\company\company\obj\Debug\company.Properties.Resources.resources
+E:\swftware\PROG\company\company\obj\Debug\company.frmuser.resources
+E:\swftware\PROG\company\company\obj\Debug\company.csproj.GenerateResource.cache
+E:\swftware\PROG\company\company\obj\Debug\company.csproj.CoreCompileInputs.cache
+E:\swftware\PROG\company\company\obj\Debug\company.exe.manifest
+E:\swftware\PROG\company\company\obj\Debug\company.application
+E:\swftware\PROG\company\company\obj\Debug\company.csproj.CopyComplete
+E:\swftware\PROG\company\company\obj\Debug\company.exe
+E:\swftware\PROG\company\company\obj\Debug\company.pdb
